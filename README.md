@@ -1,6 +1,10 @@
 # pysicm
 The goal of this project is to work through the Structure and Interpretation of Classical Mechanics book using Python and the sympy library.
 
+Each chapter of the book will have a notebook dedicated in the notebooks folder.
+
+So far I have only completed the first section.
+
 
 ## 1.4 Computing Actions
 
