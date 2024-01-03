@@ -35,7 +35,7 @@ def gamma(q, t):
 
 
 def lagrangian_action(L, q, t1, t2):
-    return integrate(L(Gamma(q,t)), (t, t1, t2))
+    return integrate(L(gamma(q,t)), (t, t1, t2))
 
 
 ```
